@@ -1,0 +1,57 @@
+﻿Authors,Title,Cites,Year,CitesPerYear
+"R Tsuchiya, K Nishikawa, H Washizaki…",Recovering transitive traceability links among various software artifacts for developers,4,2019,0.8
+"I Rubasinghe, D Meedeniya…",Automated inter-artefact traceability establishment for DevOps practice,18,2018,3
+"RM Parizi, SP Lee, M Dabbagh",Achievements and challenges in state-of-the-art software traceability between test and code artifacts,62,2014,6.2
+"S Palihawadana, CH Wijeweera…",Tool support for traceability management of software artefacts with DevOps practices,32,2017,4.57
+"H Wang, G Shen, Z Huang, Y Yu, K Chen",Analyzing close relations between target artifacts for improving IR-based requirement traceability recovery,6,2021,2
+"I Rubasinghe, D Meedeniya, I Perera",Tool support for software artefact traceability in DevOps practice: SAT-Analyser,7,2020,1.75
+"I Perera, D Meedeniya…",A traceability management framework for artefacts in self-adaptive systems,4,2015,0.44
+"D Falessi, M Di Penta, G Canfora…",Estimating the number of remaining links in traceability recovery,50,2017,7.14
+"DA Meedeniya, ID Rubasinghe…",Software artefacts consistency management towards continuous integration: a roadmap,20,2019,4
+"P Rempel, P Mäder, T Kuschke…",Mind the gap: assessing the conformance of software traceability to relevant guidelines,93,2014,9.3
+"I Rubasinghe, D Meedeniya…",Traceability management with impact analysis in DevOps based software development,16,2018,2.67
+"J Guo, J Cheng…",Semantically enhanced software traceability using deep learning techniques,305,2017,43.57
+"D Fucci, E Alégroth, T Axelsson",When traceability goes awry: an industrial experience report,2,2022,1
+"M Rahimi, J Cleland-Huang",Evolving software trace links between requirements and source code,45,2018,7.5
+"K Moran, DN Palacio, C Bernal-Cárdenas…",Improving the effectiveness of traceability link recovery using hierarchical bayesian networks,32,2020,8
+"P Hübner, B Paech",Interaction-based creation and maintenance of continuously usable trace links between requirements and source code,14,2020,3.5
+"R Lapeña, F Pérez, Ó Pastor, C Cetina",Leveraging execution traces to enhance traceability links recovery in BPMN models,0,2022,0
+"X Chen, J Hosking, J Grundy, R Amor",DCTracVis: a system retrieving and visualizing traceability links between source code and documentation,9,2018,1.5
+"R Elamin, R Osman",Implementing traceability repositories as graph databases for software quality improvement,16,2018,2.67
+"L Chen, D Wang, L Shi, Q Wang",A self-enhanced automatic traceability link recovery via structure knowledge mining for small-scale labeled data,3,2021,1
+"T Li, S Wang, D Lillis, Z Yang",Combining machine learning and logical reasoning to improve requirements traceability recovery,16,2020,4
+"MA Javed, S Stevanetic, U Zdun",Towards a pattern language for construction and maintenance of software architecture traceability links,9,2016,1.13
+"GA Cysneiros Filho, A Zisman",D3TraceView: A Traceability Visualization Tool.,3,2017,0.43
+"MS Hamdi, A Ghannem, M Kessentini",Requirements traceability recovery for the purpose of software reuse: an interactive genetic algorithm approach,5,2022,2.5
+"D Amalfitano, V De Simone, AR Fasolino…",Improving traceability management through tool integration: an experience in the automotive domain,16,2017,2.29
+"W Wang, N Niu, H Liu, Z Niu",Enhancing automated requirements traceability by resolving polysemy,53,2018,8.83
+"A Rafati, SP Lee, RM Parizi, S Zamani",A test-to-code traceability method using. NET custom attributes,1,2015,0.11
+"D Kchaou, N Bouassida, M Mefteh…",Recovering semantic traceability between requirements and design for change impact analysis,10,2019,2
+"O Rahmaoui, K Souali, M Ouzzif",Towards an Improvement of the Software Documentation Using a Traceability Approach,0,2019,0
+"S Hassan, Q Li, A Yasin…",Analyzing Tools and Techniques for Evaluating Requirements Traceability,0,2023,0
+"JCS Santos, A Shokri…",Towards automated evidence generation for rapid and continuous software certification,1,2020,0.25
+"K Mahmood, M Alobaidi…",Autonomous decentralized semantic based traceability link recovery framework,4,2016,0.5
+"A Awad, R Boyer",On the Conceptualization of Tools for Traceability-based Change Impact Analysis using a Domain-specific Modeling Approach,0,2023,0
+"A ALTETMEK, F LEWENHAGEN",A Closer Look Into Traceability Management of Non-Functional Requirements in a DevOps Environment,0,2022,0
+"A Hramyka, M Winqvist",Traceability in continuous integration pipelines using the Eiffel protocol,2,2019,0.4
+"A Awadid, R Boyer",Supporting Change Impact Analysis in System Architecture Design: Towards a Domain-Specific Modeling Method,0,2023,0
+"A Mahmoud, N Niu",On the role of semantics in automated requirements tracing,96,2015,10.67
+"S Biffl, K Meixner, A Lüder, J Herzog, F Rinker…",Industry 4.0 asset based requirements tracing in cyber-physical production system engineering,1,2021,0.33
+"D Blasco, C Cetina, Ó Pastor","A fine-grained requirement traceability evolutionary algorithm: Kromaia, a commercial video game case study",16,2020,4
+"J Lin, Y Liu, J Cleland-Huang",Information retrieval versus deep learning approaches for generating traceability links in bilingual projects,9,2022,4.5
+"C Matthies, R Heinrich, R Wohlrab",Investigating Software Engineering Artifacts in DevOps Through the Lens of Boundary Objects,0,2023,0
+"AC Marcén, R Lapeña, O Pastor, C Cetina",Traceability link recovery between requirements and models using an evolutionary algorithm guided by a learning to rank algorithm: Train control and management …,25,2020,6.25
+"A Noyer, P Iyenghar, E Pulvermueller…",A model-based workflow from specification until validation of timing requirements in embedded software systems,8,2015,0.89
+"K Gondow, Y Arahori, K Yamamoto, M Fukuyori…",TCC (Tracer-Carrying Code): A Hash-based Pinpointable Traceability Tool using Copy&Paste.,0,2018,0
+"S Polisetty, A Miranskyy, A Başar",On usefulness of the deep-learning-based bug localization models to practitioners,30,2019,6
+"TO de Jesus, MS Soares",An event-based technique to trace requirements modeled with SysML,2,2017,0.29
+"D Kchaou, N Bouassida, H Ben-Abdallah",A New Approach for Traceability between UML Models.,1,2017,0.14
+"M Unterkalmsteiner, R Feldt, T Gorschek",A taxonomy for requirements engineering and software test alignment,84,2014,8.4
+L Chawla,"Use of IBM Collaborative Lifecycle Management Solution to Demonstrate Traceability for Small, Real-World Software Development Project",0,2015,0
+"P Hübner, B Paech",Increasing precision of automatically generated trace links,6,2019,1.2
+"B Wang, R Peng, Z Wang, Y Zhao",Combining VSM and BTM to Improve Requirements Trace Links Generation.,3,2019,0.6
+"Á Jiménez, JM Vara, VA Bollati, E Marcos",MeTAGeM-Trace: Improving trace generation in model transformation by leveraging the role of transformation models,9,2015,1
+"D Würfel, R Lutz, S Diehl",Grounded requirements engineering: An approach to use case driven requirements engineering,31,2016,3.88
+"M Abbas, A Ferrari, A Shatnawi, E Enoiu…",On the relationship between similar requirements and similar software: A case study in the railway domain,23,2023,23
+"AC Marcén, F Pérez, O Pastor, C Cetina",Enhancing software model encoding for feature location approaches based on machine learning techniques,7,2022,3.5
+"Z. Pauzi, R. Thind, A. Capiluppi",Artifact Traceability in DevOps: An Industrial Experience Report,0,2023,0
